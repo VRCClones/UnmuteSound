@@ -11,7 +11,7 @@ namespace UnmuteSound
         public const string Name = "UnmuteSound";
         public const string Author = "tetra";
         public const string Version = "1.0.0";
-        public const string DownloadLink = "https://github.com/tetra-fox/QMFreeze/releases/download/1.0.0/UnmuteSound.dll";
+        public const string DownloadLink = "https://github.com/tetra-fox/UnmuteSound/releases/download/1.0.0/UnmuteSound.dll";
     }
 
     public class Mod : MelonMod
